@@ -108,7 +108,7 @@ img {
     align-items: center;
     gap: clamp(12px, 1.65vw, 25px);
     color: #344b41;
-    font-size: 11px;
+    font-size: 13px;
     font-weight: 650;
 }
 
@@ -177,7 +177,7 @@ img {
 .eyebrow {
     margin: 0 0 15px;
     color: #5e8068;
-    font-size: 9px;
+    font-size: 12px;
     font-weight: 800;
     letter-spacing: .18em;
     line-height: 1.6;
@@ -210,7 +210,7 @@ img {
 .hero h1 {
     max-width: 620px;
     font-family: "Segoe UI", Arial, sans-serif;
-    font-size: clamp(42px, 5vw, 66px);
+    font-size: clamp(48px, 6vw, 80px);
     font-weight: 750;
     letter-spacing: -.045em;
     line-height: 1.03;
@@ -225,7 +225,7 @@ img {
     max-width: 510px;
     margin: 16px 0 21px;
     color: #edf4ee;
-    font-size: 13px;
+    font-size: 18px;
     line-height: 1.75;
 }
 
@@ -246,7 +246,7 @@ img {
     padding: 0 18px;
     border: 1px solid transparent;
     border-radius: 22px;
-    font-size: 10px;
+    font-size: 13px;
     font-weight: 750;
     transition: background .2s ease, color .2s ease, border-color .2s ease, transform .2s ease;
 }
@@ -274,7 +274,7 @@ img {
     margin: 0;
     color: white;
     font-family: var(--serif);
-    font-size: 16px;
+    font-size: 20px;
     font-style: italic;
     line-height: 1.4;
     text-align: right;
@@ -319,14 +319,14 @@ img {
 
 .stat-item strong {
     color: #173c30;
-    font-size: 19px;
+    font-size: 22px;
     line-height: 1.1;
 }
 
 .stat-item p {
     margin: 4px 0 0;
     color: #40594e;
-    font-size: 9px;
+    font-size: 12px;
     line-height: 1.45;
 }
 
@@ -753,7 +753,7 @@ img {
 .resource-links small {
     margin-bottom: 5px;
     color: #748278;
-    font-size: 7px;
+    font-size: 12px;
     font-weight: 750;
     letter-spacing: .13em;
 }
@@ -761,7 +761,7 @@ img {
 .resource-links strong {
     color: #234537;
     font-family: var(--serif);
-    font-size: 17px;
+    font-size: 20px;
     font-weight: 400;
 }
 
