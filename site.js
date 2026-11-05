@@ -75,6 +75,6 @@ if (contactForm instanceof HTMLFormElement) {
 
         const subject = encodeURIComponent(`AFRIMINDS inquiry: ${subjectText}`);
         const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\nSubject: ${subjectText}\n\nMessage:\n${message}`);
-        window.location.href = `mailto:info@afriminds.org?subject=${subject}&body=${body}`;
+        window.location.href = `mailto:info.afriminds@gmail.com?subject=${subject}&body=${body}`;
     });
 }
